@@ -1,13 +1,13 @@
 # 👋🏾 Hey, I'm Gervonte Fowler
 
-**Graduate Computer Science Student** @ Florida Polytechnic University  
+**Recent Master's Graduate in Computer Science** @ Florida Polytechnic University  
 **Software Engineer**
 📍 From 🇧🇸 The Bahamas | Currently based in the U.S.
 
 ---
 
 ### 🚀 What I'm Working On
-Finalizing master's in computer science.
+Building tools for music producers/artists leveraging Instagram for outreach
 ---
 
 ### 🛠️ Tech Stack
