@@ -13,13 +13,13 @@ Building tools for music producers/artists leveraging Instagram for outreach
 
 ### 🛠️ Tech Stack
 **Languages:** Python, JavaScript, R, HTML/CSS, SQL  
-**Frameworks/Libraries:** React, Node.js, Express, Flask, TensorFlow, PyTorch, ggplot2  
+**Frameworks/Libraries:** Next,Vite,React, Node.js, Express, Flask, TensorFlow, PyTorch, ggplot2  
 **Tools:** Git, Docker, VS Code, RStudio, Figma, Firebase, MongoDB, PostgreSQL  
 
 ---
 
 ### 🎓 Education
-**M.S. in Computer Science** – Florida Polytechnic University (Expected June 2025)  
+**M.S. in Computer Science** – Florida Polytechnic University (June 2025)  
 **B.S. in Computer Science** –  Florida Polytechnic University May 2020
 
 ---
