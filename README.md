@@ -1,4 +1,5 @@
-# 👋🏾 Hey, I'm Gervonte Fowler
+# 👋🏾 Hey, I'm [Gervonte Fowler](https://builtbygervonte.com/)
+
 
 **Recent Master's Graduate in Computer Science** @ Florida Polytechnic University  
 **Software Engineer**
@@ -6,7 +7,8 @@
 
 ### 🚀 What I'm Working On
 Interview Prep Videos,
-Music & Music-Related Software & Content,
+Music & Music-Related Software & Content
+
 
 ### 🛠️ Tech Stack
 **Languages:** Python, JavaScript, R, HTML/CSS, SQL  
