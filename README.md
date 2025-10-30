@@ -4,34 +4,25 @@
 **Software Engineer**
 📍 From 🇧🇸 The Bahamas | Currently based in the U.S.
 
----
-
 ### 🚀 What I'm Working On
 Interview Prep Videos,
-Music & Music-Related Software & Content
-Fintech Software
----
+Music & Music-Related Software & Content,
 
 ### 🛠️ Tech Stack
 **Languages:** Python, JavaScript, R, HTML/CSS, SQL  
 **Frameworks/Libraries:** Next,Vite,React, Node.js, Express, Flask, TensorFlow, PyTorch, ggplot2  
 **Tools:** Git, Docker, VS Code, RStudio, Figma, Firebase, MongoDB, PostgreSQL  
 
----
-
 ### 🎓 Education
-**M.S. in Computer Science** – Florida Polytechnic University (June 2025)  
+**M.S. in Computer Science** – Florida Polytechnic University June 2025  
 **B.S. in Computer Science** –  Florida Polytechnic University May 2020
 
----
-
 ### 💡 Interests
-- AI for media, and creative tools
+- Leetcode
+- AI for rapid protyping and iteration (vibe-coding/AI-enhanced development)
 - Music
-- Fintech
-- Providing clear value
+- Personal Finance Tools
 - Solo SaaS & creator-focused startup models
-- Data storytelling, spatial visualization, and ethical AI  
 - Long-term: building for The Bahamas + Caribbean
 
 ---
