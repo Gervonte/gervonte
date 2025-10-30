@@ -7,8 +7,9 @@
 ---
 
 ### 🚀 What I'm Working On
-Building tools for music producers/artists leveraging Instagram for outreach
-
+Interview Prep Videos,
+Music & Music-Related Software & Content
+Fintech Software
 ---
 
 ### 🛠️ Tech Stack
@@ -25,8 +26,11 @@ Building tools for music producers/artists leveraging Instagram for outreach
 ---
 
 ### 💡 Interests
-- AI for music, media, and creative tools  
-- Solo SaaS & creator-focused startup models  
+- AI for media, and creative tools
+- Music
+- Fintech
+- Providing clear value
+- Solo SaaS & creator-focused startup models
 - Data storytelling, spatial visualization, and ethical AI  
 - Long-term: building for The Bahamas + Caribbean
 
