@@ -6,8 +6,9 @@
 📍 From 🇧🇸 The Bahamas | Currently based in the U.S.
 
 ### 🚀 What I'm Working On
-Interview Prep Videos,
-Music & Music-Related Software & Content
+- Interview Prep Videos
+- Music & Music-Related Software & Content
+- Personal Finance Tools
 
 
 ### 🛠️ Tech Stack
@@ -20,10 +21,10 @@ Music & Music-Related Software & Content
 **B.S. in Computer Science** –  Florida Polytechnic University May 2020
 
 ### 💡 Interests
-- Leetcode
+- Leetcode [[Beastmode](https://youtu.be/oOWc9QAoTKg?si=HIH2gl6q93NmWdjq)]
 - AI for rapid protyping and iteration (vibe-coding/AI-enhanced development)
 - Music
-- Personal Finance Tools
+- Personal Finance
 - Solo SaaS & creator-focused startup models
 - Long-term: building for The Bahamas + Caribbean
 
