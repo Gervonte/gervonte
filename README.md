@@ -1,5 +1,5 @@
-# 👋🏾 Hey, I'm [Gervonte Fowler](https://builtbygervonte.com/)
-
+# 👋🏾 Hey, I'm Gervonte Fowler
+[Visit My Website!](https://builtbygervonte.com/)
 
 **Recent Master's Graduate in Computer Science** @ Florida Polytechnic University  
 **Software Engineer**
@@ -12,9 +12,9 @@
 
 
 ### 🛠️ Tech Stack
-**Languages:** Python, JavaScript, R, HTML/CSS, SQL  
-**Frameworks/Libraries:** Next,Vite,React, Node.js, Express, Flask, TensorFlow, PyTorch, ggplot2  
-**Tools:** Git, Docker, VS Code, RStudio, Figma, Firebase, MongoDB, PostgreSQL  
+**Languages:** Python, JavaScript, R, SQL  
+**Frameworks/Libraries:** Next.js/Vite/React.js, Node.js/Express
+**Tools:** Git, Figma,Cursor, PostgreSQL  
 
 ### 🎓 Education
 **M.S. in Computer Science** – Florida Polytechnic University June 2025  
