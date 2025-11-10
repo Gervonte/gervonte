@@ -6,9 +6,10 @@
 📍 From 🇧🇸 The Bahamas | Currently based in the U.S.
 
 ### 🚀 What I'm Working On
-- Interview Prep Videos
-- Music & Music-Related Software & Content
+- Interview Prep Videos (for coding on camera practice!)
 - Personal Finance Tools
+- Music & Music-Related Software & Content (to inspire others)
+
 
 
 ### 🛠️ Tech Stack
