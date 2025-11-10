@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 **Languages:** Python, JavaScript, R, SQL  
-**Frameworks/Libraries:** Next.js/Vite/React.js, Node.js/Express
+**Frameworks/Libraries:** Next.js/Vite/React.js, Node.js/Express  
 **Tools:** Git, Figma,Cursor, PostgreSQL  
 
 ### 🎓 Education
@@ -29,7 +29,8 @@
 - Long-term: building for The Bahamas + Caribbean
 - Leetcode [[Beastmode](https://youtu.be/oOWc9QAoTKg?si=HIH2gl6q93NmWdjq)]
 <img width="1316" height="222" alt="image" src="https://github.com/user-attachments/assets/4b6f5a04-51ea-4a48-8330-54244fa9f3e3" />
-[This is what I actually spent most of my time day to day doing along with System Design Practice and buidling projects on educative.io from late 2022 to August 2024 when unable to find a role to even apply to in my home country 😅]
+
+^This is what I **actually** spent most of my time day to day doing along with System Design Practice and building projects using educative.io from late 2022 to August 2024 when unable to find a role to even apply to in my home country. 😅
 
 
 
