@@ -22,6 +22,8 @@
 
 ### 💡 Interests
 - Leetcode [[Beastmode](https://youtu.be/oOWc9QAoTKg?si=HIH2gl6q93NmWdjq)]
+<img width="1316" height="222" alt="image" src="https://github.com/user-attachments/assets/4b6f5a04-51ea-4a48-8330-54244fa9f3e3" />
+
 - AI for rapid protyping and iteration (vibe-coding/AI-enhanced development)
 - Music
 - Personal Finance
