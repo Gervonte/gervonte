@@ -3,7 +3,7 @@
 
 **Recent Master's Graduate in Computer Science** @ Florida Polytechnic University  
 **Software Engineer**
-📍 From 🇧🇸 The Bahamas | Currently based in the U.S.
+📍 From 🇧🇸 The Bahamas (proudly!) | Currently based in the U.S.
 
 ### 🚀 What I'm Working On
 - Interview Prep Videos (for coding on camera practice!)
