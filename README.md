@@ -1,4 +1,4 @@
-# 👋🏾 Hey, I'm Gervonte Fowler
+# 👋🏾 Hey, I'm Gervontè Fowler
 [Visit My Website!](https://builtbygervonte.com/)
 
 **Recent Master's Graduate in Computer Science** @ Florida Polytechnic University  
