@@ -14,7 +14,7 @@ I run **BuiltByGervonte LLC**, a hybrid engineering and creative studio built on
 
 Inside the company:  
 - **Ignition Labs** (engineering and product studio focused on personal finance tools, currently in stealth)
-- **Don’t Believe The Hype Records** (creative and music division)  
+- **DBTH Records** (creative and music division) 
 
 On the engineering side, I’m working on:  
 - full-stack product development  
@@ -29,7 +29,7 @@ Steve Jobs once noted that many of the best people at Apple were musicians, arti
 *who also happened to be great at computer science.*
 
 That idea resonates with me.  
-My work sits at the intersection of engineering, creativity, and clarity. The same mindset shaping both Ignition Labs and Don’t Believe The Hype Records.
+My work sits at the intersection of engineering, creativity, and clarity. The same mindset shaping both Ignition Labs and DBTH Records.
 
 
 ## 🛠️ Tech Stack  
