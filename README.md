@@ -5,37 +5,20 @@
 🇧🇸 From **The Bahamas** | Based in the U.S.  
 [🙋🏾‍♂️ builtbygervonte.com](https://builtbygervonte.com/)
 
-**“Code like an engineer. Think like a founder. Create like an artist.”**
 
 </div>
 
 ## 🧭 What I’m Focused On  
-I run **BuiltByGervonte LLC**, a hybrid engineering and creative studio built on intentional creation, clarity, and long-term stability.
+I run **BuiltByGervonte LLC**, a creative studio currently focused on building personal finance tools for The Bahamas.
 
-Inside the company:  
-- **Ignition Labs** (engineering and product studio focused on personal finance tools, currently in stealth)
-- **DBTH Records** (creative and music division) 
-
-On the engineering side, I’m working on:  
-- full-stack product development  
-- interview prep and coding-on-camera practice  
-- rapid prototyping and iteration  
-- internal tools and creative automation systems  
+In addition to full-stack product development through my personal finance product, I’m working on completing DSA style questions for interview prep.
 
 ---
 
-### 🎨 Why I Build the Way I Build
-Steve Jobs once noted that many of the best people at Apple were musicians, artists, and creatives  
-*who also happened to be great at computer science.*
-
-That idea resonates with me.  
-My work sits at the intersection of engineering, creativity, and clarity. The same mindset shaping both Ignition Labs and DBTH Records.
-
-
 ## 🛠️ Tech Stack  
-**Languages:** Python • JavaScript • SQL  
-**Frameworks:** React • Next.js • Vite • Node.js/Express  
-**Tools:** Git • Cursor • Figma • PostgreSQL  
+**Languages:** JavaScript/Typescript • Python
+**Frameworks:** React • Next.js • Node.js  
+**Tools:** Git • Codex • Figma • PostgreSQL  
 
 
 ## 🎓 Education  
@@ -48,9 +31,8 @@ My work sits at the intersection of engineering, creativity, and clarity. The sa
 - human-centered engineering  
 - personal finance and clarity tools
 - product design and strategy reading (UX, psychology, systems thinking)  
-- solo SaaS and indie creation  
-- building for The Bahamas and the Caribbean
-- LeetCode [[Beastmode]](https://youtu.be/oOWc9QAoTKg?si=HIH2gl6q93NmWdjq)
+- indie development and startups  
+- building new and impactful products
 
 <img width="1316" height="222" src="https://github.com/user-attachments/assets/4b6f5a04-51ea-4a48-8330-54244fa9f3e3" />
 
