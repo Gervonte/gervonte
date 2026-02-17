@@ -9,11 +9,8 @@
 </div>
 
 ## 🧭 What I’m Focused On  
-I run **BuiltByGervonte LLC**, a creative studio currently focused on building personal finance tools for The Bahamas.
-
-In addition to full-stack product development through my personal finance product, I’m working on completing DSA style questions for interview prep.
-
----
+Full-stack product development through **BuiltByGervonte LLC**, a creative studio currently focused on building personal finance tools for The Bahamas.
+I’m also working on completing DSA style questions for interview prep.
 
 ## 🛠️ Tech Stack  
 **Languages:** JavaScript/Typescript • Python
@@ -33,6 +30,8 @@ In addition to full-stack product development through my personal finance produc
 - product design and strategy reading (UX, psychology, systems thinking)  
 - indie development and startups  
 - building new and impactful products
+
+---
 
 <img width="1316" height="222" src="https://github.com/user-attachments/assets/4b6f5a04-51ea-4a48-8330-54244fa9f3e3" />
 
