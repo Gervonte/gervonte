@@ -3,14 +3,15 @@
 # 👋🏾 Hey, I'm **Gervonté Fowler**  
 **Software Engineer • Founder, BuiltByGervonte LLC**  
 🇧🇸 From **The Bahamas** | Based in the U.S.  
-[🙋🏾‍♂️ builtbygervonte.com](https://builtbygervonte.com/)
+🔗 [Try Rainy Day](https://rainyday.ignitionlabs.app/demo) • [🙋🏾‍♂️BuiltByGervonte.com](https://builtbygervonte.com/)
 
 
 </div>
 
-## 🧭 What I’m Focused On  
-Full-stack product development through **BuiltByGervonte LLC**, a creative studio currently focused on building personal finance tools for The Bahamas.
-I’m also working on completing DSA style questions for interview prep.
+## 🧭 What I'm Focused On  
+Full-stack product development through **BuiltByGervonte LLC**, a creative studio currently focused on building personal finance tools for The Bahamas and the broader Caribbean.
+
+**Rainy Day** - a personal finance platform for markets with limited open banking coverage, using bank statements as the primary data source. Supports multi-bank ingestion, automatic categorization, recurring bill detection, and cash-flow forecasting.
 
 ## 🛠️ Tech Stack  
 **Languages:** JavaScript/Typescript • Python
@@ -22,24 +23,13 @@ I’m also working on completing DSA style questions for interview prep.
 **M.S. Computer Science** — Florida Polytechnic University, Summer 2025  
 **B.S. Computer Science** — Florida Polytechnic University, Spring 2020  
 
-
-## 🌱 Interests  
-- AI for product development  
-- human-centered engineering  
-- personal finance and clarity tools
-- product design and strategy reading (UX, psychology, systems thinking)  
-- indie development and startups  
-- building new and impactful products
-
----
-
 <img width="1316" height="222" src="https://github.com/user-attachments/assets/4b6f5a04-51ea-4a48-8330-54244fa9f3e3" />
 
 <sub>
-This screenshot reflects what most of my late 2022 to 2024 journey looked like  
-daily LeetCode, system design practice, and building projects while I was unable  
-to find engineering roles back home. It became the foundation of my current  
-engineering ability and the discipline behind everything I'm building today.
+This screenshot reflects my late 2022 to 2024 routine — daily LeetCode,  
+system design practice, and independent project building across multiple  
+stacks. That period of disciplined prep became the foundation for the  
+engineering work I'm doing today.
 </sub>
 
 ---
